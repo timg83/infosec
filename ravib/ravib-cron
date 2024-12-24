@@ -1,0 +1,4 @@
+0 0 * * * /var/www/html/database/backup_database
+0 0 * * * /var/www/html/database/flush_risk_assessments
+0 0 * * * /var/www/html/database/remove_old_logs
+0 0 * * * /var/www/html/send_deadline_warnings
